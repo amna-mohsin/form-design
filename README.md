@@ -24,7 +24,7 @@ A clean and beginner friendly form layout website using HTML and CSS. Demonstrat
   - index.html
   - style.css
 
-## netlify
+## Netlify 
 
 🔗 [View on Netlify] (https://basic-form-structure.netlify.app/)
 
