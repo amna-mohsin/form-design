@@ -15,9 +15,9 @@ A clean and beginner friendly form layout website using HTML and CSS. Demonstrat
 
 ## Usage
 
-    - Clone or download the repository
-    - Open the project folder
-    - Open index.html in your browser to view the form
+  - Clone or download the repository  
+  - Open the project folder  
+  - Open `index.html` in your browser to view the website
 
 ## Structure
 
