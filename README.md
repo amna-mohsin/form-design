@@ -1,6 +1,6 @@
-# HTML Website using Header and Footer 
+# Basic Form Layout
 
-This is a basic one-page website demonstrating how to implement a simple **header and footer** using **HTML and CSS**. It’s perfect for beginners learning layout structure.
+A clean and beginner friendly form layout website using HTML and CSS. Demonstrates how to create a well-structured and styled form — ideal for front-end learners and practice projects.
 
 ## Features
 
